@@ -7,9 +7,9 @@ Follow along with us on the latest weather we're watching, the threats it may br
 day to be prepared. You can find the forecast for the days ahead in the weather details tab below.
 
 
-###Writting a Project Sample
+#### **Writting a Project Sample**
 
-#GIT TEST
+# GIT TEST
 
 Coding is usually seen as a solitary activity, but it’s actually the world’s largest community effort led by open source maintainers, contributors, and teams. These unsung heroes put in long hours to build software, fix issues, field questions, 
 and manage communities.
@@ -19,10 +19,10 @@ to engage with the community and explore the stories, challenges, technology, an
 
 
 
-###THIS SITE WAS USING [GitHub Pages](https://pages.github.com/).
+### **THIS SITE WAS USING [GitHub Pages](https://pages.github.com/).**
 
 
-#IMAGES
+# IMAGES
 
 You can display an image by adding ! and wrapping the alt text in [ ]. Then wrap the link for the image in parentheses ().
 
